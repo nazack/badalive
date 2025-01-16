@@ -58,30 +58,8 @@
 
 /* Bouton pour ouvrir la fenetre */
 #FAM-button-open {
-  color: var(--accentClr);
-  font-size: 18px;
-  background-color: var(--neutralDark);
-  border-radius: 10px;
-  width: 45px;
-  height: 45px;
-  left: 10px;
-  top: 15px;
-  cursor: pointer;
-  transition-property: right;
-  transition-duration: 500ms;
-  display: grid;
-  place-items: center;
-}
-
-#FAM-button-open:hover {
-  background: var(--FAM-accentClr);
-  color: var(--FAM-pluginBackground);
-}
-
-#FAM[data-hidden="false"] ~ #FAM-button-open {
-  background: var(--FAM-accentClr);
-  color: var(--FAM-pluginBackground);
-}
+  width: 55px; height: 55px; padding: 5px; display: grid ; border: var(--border); border-radius: 5px; background: var(--fond1);
+  font-size: 18px;cursor: pointer; transition-property: right; transition-duration: 500ms; place-items: center;}
 
 /* Entête de la fenetre */
 #FAM-toolbar {
