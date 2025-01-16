@@ -58,7 +58,7 @@
 
 /* Bouton pour ouvrir la fenetre */
 #FAM-button-open {
-  width: 55px; height: 55px; padding: 5px; display: grid ; border: var(--border); border-radius: 5px; background: var(--fond1);
+  width: 35px; height: 35px; padding: 5px; display: grid ; border: var(--border); border-radius: 5px; background: var(--fond1);
   font-size: 18px;cursor: pointer; transition-property: right; transition-duration: 500ms; place-items: center;}
 
 /* Entête de la fenetre */
