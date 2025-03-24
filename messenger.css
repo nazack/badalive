@@ -571,13 +571,13 @@ hr.FAM-hr {
 
 .FAM-chat-date > a.lastpost_link {
   font-weight: 600;
-  color: var(--FAM-fontClr) !important;
+  color: var(--txt) !important;
   margin-right: 5px;
 }
 
 .FAM-chat-date > strong {
   margin-left: 5px;
-  background-color: var(--FAM-msgBackground);
+  background-color: var(-gradient-t);
   padding: 0px 4px 0px;
   border-radius: 4px;
 }
