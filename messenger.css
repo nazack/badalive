@@ -229,9 +229,9 @@
 }
 
 #FAM .FAM-inputbox {
-  color: var(--FAM-fontClr);
-  font-size: var(--FAM-fontSize);
-  background-color: var(--FAM-pluginBackground);
+  color: var(--txt);
+  font-size: 13px;
+  background-color: var(--fond1);
   border: none;
   border-radius: 10px;
   padding: 10px;
