@@ -61,7 +61,7 @@
 
 /* Entête de la fenetre */
 #FAM-toolbar {
-  color: var(--co1);
+  color: var(--txt);
   position: relative;
   margin: 20px 15px 15px;
 }
@@ -1150,7 +1150,7 @@ blockquote.FAM-codebox > div {
   z-index: 2;
 }
 
-#FAM-tab-container:after {
+#FAM-tab-container:after {border-radius:0px 3px 3px 0px;
   content: "";
   display: block;
   position: absolute;
