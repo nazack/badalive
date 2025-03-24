@@ -1125,8 +1125,8 @@ blockquote.FAM-codebox > div {
   top: 0;
   display: flex;
   align-items: center;
-  background: var(--FAM-chatBackground);
-  color: var(--FAM-fontClr);
+  background: var(--fond1);
+  color: var(--txt);
   border-radius: 5px;
   padding: 0 8px;
   margin-left: 5px;
@@ -1134,7 +1134,7 @@ blockquote.FAM-codebox > div {
 
 #FAM-tab-add:hover {
   background: var(--co3-t);
-  color: var(--FAM-pluginBackground);
+  color: var(--white);
 }
 
 #FAM-tabs {
