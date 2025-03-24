@@ -382,7 +382,7 @@ hr.FAM-hr {
 }
 
 #FAM-actions {
-  background-color: var(--FAM-textareaBackground);
+  background-color: var(--fond1);
   border-radius: 10px;
   margin: 10px 35px;
   align-items: end;
