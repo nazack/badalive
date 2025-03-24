@@ -61,7 +61,7 @@
 
 /* Entête de la fenetre */
 #FAM-toolbar {
-  color: var(--FAM-titleClr);
+  color: var(--co1);
   position: relative;
   margin: 20px 15px 15px;
 }
