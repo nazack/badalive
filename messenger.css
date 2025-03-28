@@ -133,16 +133,6 @@
   pointer-events: none;
 }
 
-.FAM-viewing-topic:before {
-  top: 0px;
-  background: var(--FAM-gradientTop);
-}
-
-.FAM-viewing-topic:after {
-  bottom: 0;
-  background: var(--FAM-gradientBot);
-}
-
 /* Chargement */
 .FAM-loading {
   display: flex;
@@ -1158,7 +1148,7 @@ blockquote.FAM-codebox > div {
   top: 0;
   bottom: 0;
   width: 20%;
-  background: var(--FAM-gradient);
+  background: var(--fond1);
   z-index: 5;
   pointer-events: none;
 }
